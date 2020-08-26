@@ -2,6 +2,6 @@
 
 Some internal links:
 
-[HTML file]({% post_url page.html %})
+[HTML file]({% link page.html %})
 
-[Sub-folder]({% post_url /free %})
+[Sub-folder]({% link /free %})
