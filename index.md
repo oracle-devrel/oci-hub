@@ -2,5 +2,5 @@
 
 Some internal links:
 
-[HTML file]({% page.html 2010-07-21-name-of-post %})
-[Sub-folder]({% /free 2010-07-21-name-of-post %})
+[HTML file]({% post_url page.html %})
+[Sub-folder]({% post_url /free %})
