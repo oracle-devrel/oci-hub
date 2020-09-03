@@ -1,6 +1,6 @@
 ## OCI content
 
-* auto-gen TOC:
+1. auto-gen TOC:
 {:toc}
 
 # What is OCI
