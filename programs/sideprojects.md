@@ -4,7 +4,18 @@
 
 This is a developer-oriented program meant to support developers' side projects. 
 
-It's based on Oracle Cloud's free-tier program, providing 2 VMs, one load balancer, 2 cloud-hosted databases with 20GB storage each and 10TB monthly outband traffic, among others (see [here](https://www.oracle.com/cloud/free/) or [here](http://www.oracle.com/us/what-can-i-do-with-300-in-credits-3746781.pdf) the current configuration).
+It's based on Oracle Cloud's free-tier program, providing:
+
+- Compute: 2 VMs with 1 oCPU and 1GB memory each
+- Storage: 2x Block Volumes, 100GB Total. 10GB Object Storage. 10GB Archive Storage
+- Databases: 2x Databases (ADWH/ATP), each with 1 oCPU and 20GB Storage
+- Additional Services:
+  - Load Balancer: 1 instance, 10Mbps
+  - Monitoring: 500 million ingestion datapoints, 1 billion retrieval datapoints.
+  - Notifications: 1 million sent through https per month, 1000 sent through email per month.
+  - Outbound Data Transfer: 10TB per month
+
+See the current free allowance [here](https://www.oracle.com/cloud/free/) or [here](http://www.oracle.com/us/what-can-i-do-with-300-in-credits-3746781.pdf) the current configuration).
 
 Part of the `Oracle Digital for Developers` initiative, therefore signing with [this link][1] tunes any further interaction to a technical only audience.
 
