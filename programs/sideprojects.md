@@ -15,7 +15,7 @@ It's based on Oracle Cloud's free-tier program, providing:
   - Notifications: 1 million sent through https per month, 1000 sent through email per month.
   - Outbound Data Transfer: 10TB per month
 
-See the current free allowance [here](https://www.oracle.com/cloud/free/) or [here](http://www.oracle.com/us/what-can-i-do-with-300-in-credits-3746781.pdf) the current configuration).
+See the current free allowance [here](https://www.oracle.com/cloud/free/) or [here](http://www.oracle.com/us/what-can-i-do-with-300-in-credits-3746781.pdf).
 
 Part of the `Oracle Digital for Developers` initiative, therefore signing with [this link][1] tunes any further interaction to a technical only audience.
 
