@@ -1,6 +1,12 @@
 # Introduction - Oracle Cloud for Developers resources
 
 ## What is OCI
+- [Oracle Cloud Infrastructure Quick Start on Github](https://github.com/oracle-quickstart/oci-quickstart)
+
+## References
+- [OCI Learning](https://enabling-cloud.github.io/oci-learning/)
+- [Oracle Quick Start on Github](https://github.com/oracle-quickstart)
+- [Oracle Groundbreakers](https://medium.com/oracledevs)
 
 ## Basic training
 -[Oracle Cloud Infrastructure - Handson Labs](https://katacoda.com/redexpertalliance/courses/oci-course)
@@ -14,11 +20,54 @@
 ### VM
 
 ### Networking
--[Open HTTP Traffic on Oracle Cloud Infrastructure](https://hayato-iriumi.net/2020/02/02/open-http-traffic-on-oracle-cloud-infrastructure/)
+- [Open HTTP Traffic on Oracle Cloud Infrastructure](https://hayato-iriumi.net/2020/02/02/open-http-traffic-on-oracle-cloud-infrastructure/)
+- [Terraform module to deploy LDAP on Oracle Cloud Infrastructure](https://github.com/oracle-quickstart/oci-ldap)
+
+### Security
+- [Terraform module to deploy Palo Alto Networks on Oracle Cloud Infrastructure (OCI)](https://github.com/oracle-quickstart/oci-paloaltonetworks)
+- [Terraform module to deploy Fortinet on Oracle Cloud Infrastructure (OCI)](https://github.com/oracle-quickstart/oci-fortinet)
+- [Build a Bastion (jump box) and the related config options in Oracle Cloud Infrastructure](https://github.com/oracle-quickstart/oci-arch-bastion)
+- [Oracle Cloud Infrastructure — Vault Service to generate, manage and encrypt & decrypt using Keys](https://medium.com/oracledevs/oracle-cloud-infrastructure-vault-service-to-generate-manage-and-encrypt-decrypt-using-keys-4122c3ef80b0)
+- [Deploying and Integrating Hashicorp Vault on and with OCI](https://medium.com/oracledevs/deploying-and-integrating-hashicorp-vault-on-and-with-oci-cf9152b3d1a2)
 
 ### Storage
 
+### High availability
+- [Web HA reference arhotecture with Terraform](https://github.com/oracle-quickstart/oci-arch-web-ha)
+
 # Workloads
+
+- [Terraform module to deploy UiPath on Oracle Cloud Infrastructure](https://github.com/oracle-quickstart/oci-uipath)
+- [Apache Airflow on Oracle Cloud Infrastructure](https://github.com/oracle-quickstart/oci-airflow)
+
+## Web & Application servers
+
+- [Terraform module to deploy httpd on Oracle Cloud Infrastructure](https://github.com/oracle-quickstart/oci-httpd)
+
+### Tomcat
+- [TOMCAT UP AND RUNNING ON ORACLE CLOUD INFRASTRUCTURE (OCI) INSTANCE](https://reachmnadeem.wordpress.com/2019/08/22/tomcat-up-and-running-on-oracle-cloud-infrastructure-oci-instance/)
+- [Deploy a Tomcat Web Application to Oracle Cloud](https://www.oracle.com/webfolder/technetwork/tutorials/obe/cloud/apaas/java/web-app-tomcat-accs/web-app-tomcat-accs.html)
+- [Loadbalanced Apache With OKE Tomcat Instances](https://enabling-cloud.github.io/oci-learning/manual/LoadbalancedApacheWithOkeTomcat.html)
+- [Tomcat - Autonomous Database Architecture](https://github.com/oracle-quickstart/oci-arch-tomcat-autonomous)
+
+### Websphere
+- [Websphere on OCI with Terraform](https://github.com/oracle-quickstart/oci-arch-websphere-on-oci)
+
+## Databases & caching
+- [Terraform modules that deploy Couchbase Enterprise on Oracle Cloud Infrastructure](https://github.com/oracle-quickstart/oci-couchbase)
+
+
+### Redis
+- [Terraform module to deploy Redis on Oracle Cloud Infrastructure](https://github.com/oracle-quickstart/oci-redis)
+- [Deploying, Securing, and Scaling Redis on Oracle Cloud Infrastructure](https://blogs.oracle.com/cloud-infrastructure/deploying,-securing,-and-scaling-redis-on-oracle-cloud-infrastructure) and the [Youtube video](https://www.youtube.com/watch?v=0xKciaxs_m8)
+- [Deploying a Highly Available Distributed Caching Layer on Oracle Cloud Infrastructure using Memcached & Redis](https://docs.cloud.oracle.com/en-us/iaas/Content/Resources/Assets/whitepapers/deploying-memcached-and-redis-on-oci.pdf)
+- [Deploying and monitoring a Redis cluster to Oracle Container Engine (OKE)](https://medium.com/oracledevs/deploying-and-monitoring-a-redis-cluster-to-oracle-container-engine-oke-5f210b91b800)
+
+## AI and Machine Learning
+- [Terraform module that deploys H2O.ai Driverless AI on Oracle Cloud Infrastructure (OCI)](https://github.com/oracle-quickstart/oci-h2o)
+- [Deploy Oracle Data Science using Resource Manager and Terraform](https://github.com/oracle-quickstart/oci-ods-orm)
+- [Oracle Cloud Infrastructure Data Science with Oracle Machine Learning](https://github.com/oracle-quickstart/oci-arch-data-science)
+- [Machine Learning in Digital Process Automation — Part I](https://medium.com/oracledevs/machine-learning-in-digital-process-automation-part-i-7c7468e23804)
 
 ## Blogs and CMS
 
@@ -26,7 +75,6 @@
 - [Drupal and MySQL 8.0 in OCI](https://www.youtube.com/watch?v=M1Tra855IYY) and the [article](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwipvPbXi9nrAhUgRBUIHbPaArYQtwIwAnoECAQQAQ&url=https%3A%2F%2Flefred.be%2Fcontent%2Fusing-oci-to-install-drupal-and-mysql-8-0%2F&usg=AOvVaw2f3HaQdn0wgcHnUFNxHKOo)
 - [Create a High Availability MySQL Backend for Drupal in OCI](https://www.youtube.com/watch?v=C3YbVEdc-t8)
 - [Oracle Driver - allows Drupal to use an Oracle Database as the primary backend](https://www.drupal.org/project/oracle)
-
 
 ### Jumla
 - [A to Z setup of a Joomla!® website on Oracle Cloud Infrastructure Free Tier*](https://www.linkedin.com/pulse/set-up-joomla-website-oracle-cloud-infrastructure-alexis-blot-lefevre/?articleId=6671756779640254464) and [video](https://www.youtube.com/watch?v=duceoBeuL9g)
@@ -43,6 +91,8 @@
 
 # Autonomous Database
 - [Oracle Autonomous Transaction Processing - Introduction](https://github.com/vmleon/OracleATPGettingStarted)
+- [Introducing OCI Data Integration — New cloud native, serverless service for ETL/ELT and Data Pipelines](https://medium.com/oracledevs/introducing-oci-data-integration-new-cloud-native-serverless-service-for-etl-elt-and-data-bb96b22bda2b)
+- [Connecting SQL*Plus in Cloud Shell to an Autonomous Database](https://medium.com/oracledevs/connecting-sql-plus-in-cloud-shell-to-an-autonomous-database-1debeff5c396)
 
 # Serveless / Functions
 - [The Complete Guide To Invoking Serverless Oracle Functions](https://blogs.oracle.com/developers/the-complete-guide-to-invoking-serverless-oracle-functions)
@@ -52,17 +102,26 @@
 # Low code
 - [Podcast #382: Low Code Goes Pro](https://blogs.oracle.com/developers/podcast-382%3A-low-code-goes-pro)
 
-
 # Devops
+- [Terraform module to deploy Jenkins on Oracle Cloud Infrastructure (OCI)](https://github.com/oracle-quickstart/oci-jenkins)
+- [Deploy OCI infrastructure using Jenkins pipeline](https://github.com/oracle-quickstart/oci-orm-cicd)
+
+## Terraform
+- [Reusable Terraform modules for OCI](https://medium.com/oracledevs/reusable-terraform-modules-for-oci-8fdc9ed1064b)
 
 ## Kubernetes
 - [Project Verrazzano Now on GitHub](https://blogs.oracle.com/developers/project-verrazzano-now-on-github)
+- [Learn About Setting Up a Kubernetes Cluster in the Cloud](https://docs.oracle.com/en/solutions/deploy-kubernetes/#GUID-540E0F3B-6575-4303-98CF-3A05F53908EE)
+- [From locally running Node application to Cloud based Kubernetes Deployment](https://medium.com/oracledevs/from-locally-running-node-application-to-cloud-based-kubernetes-deployment-1fed34280952)
+- [Access OCI OKE Kubernetes Dashboard locally through Cloud Shell Proxy and ngrok](https://medium.com/oracledevs/access-oci-oke-kubernetes-dashboard-locally-through-cloud-shell-proxy-and-ngrok-43789ea16c22)
 
 ## Docker
 - [Adventures in CI/CD #10: Deploying Our Microservice Docker Container To Kubernetes](https://blogs.oracle.com/developers/adventures-in-cicd-10-deploying-our-microservice-docker-container-to-kubernetes)
 - [Adventures in CI/CD #9: Deploying A Microservice As A Docker Container](https://blogs.oracle.com/developers/adventures-in-cicd-9%3A-deploying-a-microservice-as-a-docker-container)
 
 ## Microservices
+- [MuShop showcase](https://github.com/oracle-quickstart/oci-cloudnative)
+- [Deploy microservices to a Kubernetes cluster](https://github.com/oracle-quickstart/oci-arch-microservice-oke)
 - [Adventures in CI/CD #8: Deploying A Microservice With A Tested Persistence Tier In Place](https://blogs.oracle.com/developers/adventures-in-cicd-8-deploying-a-microservice-with-a-tested-persistence-tier-in-place)
 - [Adventures in CI/CD #6: Adding A Persistence Tier To Our Microservice](https://blogs.oracle.com/developers/adventures-in-cicd-6-adding-a-persistence-tier-to-our-microservice)
 - [Adventures in CI/CD #5: Deploying A Microservice To The Oracle Cloud With GitHub Actions (Gradle Plugin Edition)](https://blogs.oracle.com/developers/adventures-in-cicd-5-deploying-a-microservice-to-the-oracle-cloud-with-github-actions-gradle-plugin-edition)
@@ -95,6 +154,7 @@
 - [Instance and Resource Principal Authentication With The OCI TypeScript/JavaScript SDK](https://blogs.oracle.com/developers/instance-and-resource-principal-authentication-with-the-oci-typescriptjavascript-sdk)
 - [OCI SDK For TypeScript Is Now Available - Here's How To Use It In Your JavaScript Projects](https://blogs.oracle.com/developers/oci-sdk-for-typescript-is-now-available-heres-how-to-use-it)
 - [Resource Principal Auth With Node.JS For Easy OCI REST API Access From Your Oracle Functions](https://blogs.oracle.com/developers/resource-principal-auth-with-nodejs-for-easy-oci-rest-api-access-from-your-oracle-functions)
+- [From locally running Node application to Cloud based Kubernetes Deployment](https://medium.com/oracledevs/from-locally-running-node-application-to-cloud-based-kubernetes-deployment-1fed34280952)
 
 ## Python
 - [Getting Started With The Oracle Cloud Infrastructure Python SDK](https://blogs.oracle.com/developers/getting-started-with-the-oracle-cloud-infrastructure-python-sdk-v2)
