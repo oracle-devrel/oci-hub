@@ -34,6 +34,7 @@
 
 ### High availability
 - [Web HA reference arhotecture with Terraform](https://github.com/oracle-quickstart/oci-arch-web-ha)
+- [This automation provisions an HA Scheduler on OCI](https://github.com/oracle-quickstart/oci-arch-ha-scheduler)
 
 # Workloads
 
@@ -54,8 +55,10 @@
 - [Websphere on OCI with Terraform](https://github.com/oracle-quickstart/oci-arch-websphere-on-oci)
 
 ## Databases & caching
-- [Terraform modules that deploy Couchbase Enterprise on Oracle Cloud Infrastructure](https://github.com/oracle-quickstart/oci-couchbase)
 
+### Misc
+- [Terraform modules that deploy Couchbase Enterprise on Oracle Cloud Infrastructure](https://github.com/oracle-quickstart/oci-couchbase)
+- [Terraform module to deploy CockroachDB on Oracle Cloud Infrastructure (OCI)](https://github.com/oracle-quickstart/oci-cockroachdb)
 
 ### Redis
 - [Terraform module to deploy Redis on Oracle Cloud Infrastructure](https://github.com/oracle-quickstart/oci-redis)
@@ -93,6 +96,7 @@
 - [Oracle Autonomous Transaction Processing - Introduction](https://github.com/vmleon/OracleATPGettingStarted)
 - [Introducing OCI Data Integration — New cloud native, serverless service for ETL/ELT and Data Pipelines](https://medium.com/oracledevs/introducing-oci-data-integration-new-cloud-native-serverless-service-for-etl-elt-and-data-bb96b22bda2b)
 - [Connecting SQL*Plus in Cloud Shell to an Autonomous Database](https://medium.com/oracledevs/connecting-sql-plus-in-cloud-shell-to-an-autonomous-database-1debeff5c396)
+- [New Release: Visual Studio Integration with Oracle Autonomous Database](https://medium.com/oracledevs/visual-studio-integration-with-oracle-autonomous-database-7c6243eca329)
 
 # Serveless / Functions
 - [The Complete Guide To Invoking Serverless Oracle Functions](https://blogs.oracle.com/developers/the-complete-guide-to-invoking-serverless-oracle-functions)
@@ -108,16 +112,21 @@
 
 ## Terraform
 - [Reusable Terraform modules for OCI](https://medium.com/oracledevs/reusable-terraform-modules-for-oci-8fdc9ed1064b)
+- [Very first steps in Oracle Cloud Infrastructure as Code with Terraform](https://medium.com/oracledevs/very-first-steps-in-oracle-cloud-infrastructure-as-code-with-terraform-d3179ecc043a)
+- [Oracle Cloud Infrastructure Cloud Shell — integrated OCI CLI, kubectl, terraform, SQL Plus, Docker and Maven](https://medium.com/oracledevs/oracle-cloud-infrastructure-cloud-shell-integrated-oci-cli-kubectl-terraform-sql-plus-docker-c09210e3a535)
 
 ## Kubernetes
 - [Project Verrazzano Now on GitHub](https://blogs.oracle.com/developers/project-verrazzano-now-on-github)
 - [Learn About Setting Up a Kubernetes Cluster in the Cloud](https://docs.oracle.com/en/solutions/deploy-kubernetes/#GUID-540E0F3B-6575-4303-98CF-3A05F53908EE)
 - [From locally running Node application to Cloud based Kubernetes Deployment](https://medium.com/oracledevs/from-locally-running-node-application-to-cloud-based-kubernetes-deployment-1fed34280952)
 - [Access OCI OKE Kubernetes Dashboard locally through Cloud Shell Proxy and ngrok](https://medium.com/oracledevs/access-oci-oke-kubernetes-dashboard-locally-through-cloud-shell-proxy-and-ngrok-43789ea16c22)
+- [Oracle Cloud Infrastructure Cloud Shell — integrated OCI CLI, kubectl, terraform, SQL Plus, Docker and Maven](https://medium.com/oracledevs/oracle-cloud-infrastructure-cloud-shell-integrated-oci-cli-kubectl-terraform-sql-plus-docker-c09210e3a535)
 
 ## Docker
 - [Adventures in CI/CD #10: Deploying Our Microservice Docker Container To Kubernetes](https://blogs.oracle.com/developers/adventures-in-cicd-10-deploying-our-microservice-docker-container-to-kubernetes)
 - [Adventures in CI/CD #9: Deploying A Microservice As A Docker Container](https://blogs.oracle.com/developers/adventures-in-cicd-9%3A-deploying-a-microservice-as-a-docker-container)
+- [Oracle Cloud Infrastructure Cloud Shell — integrated OCI CLI, kubectl, terraform, SQL Plus, Docker and Maven](https://medium.com/oracledevs/oracle-cloud-infrastructure-cloud-shell-integrated-oci-cli-kubectl-terraform-sql-plus-docker-c09210e3a535)
+- [Run Always Free Docker Container on Oracle Cloud Infrastructure](https://medium.com/oracledevs/run-always-free-docker-container-on-oracle-cloud-infrastructure-c88e36b65610)
 
 ## Microservices
 - [MuShop showcase](https://github.com/oracle-quickstart/oci-cloudnative)
@@ -130,6 +139,7 @@
 ## CI/CD
 - [Adventures in CI/CD #7: Testing The Persistence Tier With Testcontainers](https://blogs.oracle.com/developers/adventures-in-cicd-7-testing-the-persistence-tier-with-testcontainers)
 - [Cloud Cost Cutting: Autoscaling Your Dev/QA Environments](https://blogs.oracle.com/developers/cloud-cost-cutting%3A-autoscaling-your-devqa-environments)
+- [Terraform module to deploy Splunk on Oracle Cloud Infrastructure](https://github.com/oracle-quickstart/oci-splunk)
 
 ## Helidon
 - [Helodon official docs](https://helidon.io/docs/latest/#/about/01_overview)
@@ -158,6 +168,7 @@
 
 ## Python
 - [Getting Started With The Oracle Cloud Infrastructure Python SDK](https://blogs.oracle.com/developers/getting-started-with-the-oracle-cloud-infrastructure-python-sdk-v2)
+- [Writing Python scripts to run from the OCI Console Cloud Shell](https://medium.com/oracledevs/writing-python-scripts-to-run-from-the-oci-console-cloud-shell-a0be1091384c)
 
 ## Swift (iOS/macOS)
 - [Build Swift apps with Oracle’s Autonomous Database and NoSQL](https://medium.com/so-much-code/build-swift-apps-with-oracles-autonomous-database-and-nosql-f1dee7e7cec3)
@@ -170,6 +181,7 @@
 
 ## Kafka
 - [Oracle Streaming Service with Kafka Connect](https://blogs.oracle.com/developers/oracle-streaming-service-with-kafka-connect)
+- [Terraform module to deploy Kafka on Oracle Cloud Infrastructure](https://github.com/oracle-quickstart/oci-kafka)
 
 ## NoSQL
 - [REST Data Services SODA for REST Developer's Guide](https://docs.oracle.com/database/ords-18.1/ADRST/getting-started-soda-rest.htm#ADRST-GUID-C67498D7-5783-4969-80EF-C180CEC1144A)
