@@ -2,7 +2,7 @@
 
 This is a developer-oriented program meant to support developers' side projects. 
 
-It's based on Oracle Cloud's free-tier program, providing:
+It's based on Oracle Cloud's free-tier program, providing (resources can be used indefinitely):
 
 - Compute: 2 VMs with 1 oCPU and 1GB memory each
 - Storage: 2x Block Volumes, 100GB Total. 10GB Object Storage. 10GB Archive Storage
