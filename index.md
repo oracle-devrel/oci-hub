@@ -8,14 +8,38 @@
 ## Sign-up
 
 ## Console
-## Basic terms
+
+## Basic tasks
+
 ### VM
+
 ### Networking
+-[Open HTTP Traffic on Oracle Cloud Infrastructure](https://hayato-iriumi.net/2020/02/02/open-http-traffic-on-oracle-cloud-infrastructure/)
+
 ### Storage
 
 # Workloads
-## Blogs
+
+## Blogs and CMS
+
+### Drupal
+- [Drupal and MySQL 8.0 in OCI](https://www.youtube.com/watch?v=M1Tra855IYY) and the [article](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwipvPbXi9nrAhUgRBUIHbPaArYQtwIwAnoECAQQAQ&url=https%3A%2F%2Flefred.be%2Fcontent%2Fusing-oci-to-install-drupal-and-mysql-8-0%2F&usg=AOvVaw2f3HaQdn0wgcHnUFNxHKOo)
+- [Create a High Availability MySQL Backend for Drupal in OCI](https://www.youtube.com/watch?v=C3YbVEdc-t8)
+- [Oracle Driver - allows Drupal to use an Oracle Database as the primary backend](https://www.drupal.org/project/oracle)
+
+
+### Jumla
+- [A to Z setup of a Joomla!® website on Oracle Cloud Infrastructure Free Tier*](https://www.linkedin.com/pulse/set-up-joomla-website-oracle-cloud-infrastructure-alexis-blot-lefevre/?articleId=6671756779640254464) and [video](https://www.youtube.com/watch?v=duceoBeuL9g)
+
+### Ghost
 - [Stand Up A Free Blog In 15 Minutes With Ghost In The Oracle Cloud](https://blogs.oracle.com/developers/stand-up-a-free-blog-in-15-minutes-with-ghost-in-the-oracle-cloud)
+- [Hosting a Ghost blog for free on Oracle Cloud Free-Tier!](https://blog.ryanharper.co.uk/free-vms-on-oracle-cloud/)
+
+### Wordpress
+- [Wordpress & MySQL 8.0 on OCI](https://www.youtube.com/watch?v=rBUEdt0Iy60) and the corresponding [blog post](https://lefred.be/content/using-oci-to-install-wordpress-and-mysql-8-0/)
+- [Oracle Compute Cloud: Launching Wordpress from the MarketPlace](https://www.youtube.com/watch?v=M6-shGZh2TA)
+- [Using Oracle Cloud Infrastructure Load Balancing for Your Highly Available WordPress Application](https://www.oracle.com/a/ocom/docs/using-oci-load-balancing-with-wordpress.pdf)
+- [Using your Oracle Free Cloud to host your Wordpress website](https://dev.to/project42/using-your-oracle-free-cloud-to-host-your-wordpress-website-582f)
 
 # Autonomous Database
 - [Oracle Autonomous Transaction Processing - Introduction](https://github.com/vmleon/OracleATPGettingStarted)
