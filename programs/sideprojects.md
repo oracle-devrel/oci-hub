@@ -1,7 +1,5 @@
 # Support for side projects
 
-## Description
-
 This is a developer-oriented program meant to support developers' side projects. 
 
 It's based on Oracle Cloud's free-tier program, providing:
