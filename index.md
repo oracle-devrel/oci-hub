@@ -8,6 +8,9 @@
 - [Oracle Quick Start on Github](https://github.com/oracle-quickstart)
 - [Oracle Groundbreakers](https://medium.com/oracledevs)
 
+## Developer programs
+- [Support for side projects](./programs/sideprojects.md)
+
 ## Basic training
 -[Oracle Cloud Infrastructure - Handson Labs](https://katacoda.com/redexpertalliance/courses/oci-course)
 
