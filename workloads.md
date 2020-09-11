@@ -52,7 +52,7 @@ nav_order: 4
 - [Create a High Availability MySQL Backend for Drupal in OCI](https://www.youtube.com/watch?v=C3YbVEdc-t8)
 - [Oracle Driver - allows Drupal to use an Oracle Database as the primary backend](https://www.drupal.org/project/oracle)
 
-### Jumla
+### Joomla
 - [A to Z setup of a Joomla!® website on Oracle Cloud Infrastructure Free Tier*](https://www.linkedin.com/pulse/set-up-joomla-website-oracle-cloud-infrastructure-alexis-blot-lefevre/?articleId=6671756779640254464) and [video](https://www.youtube.com/watch?v=duceoBeuL9g)
 
 ### Ghost
