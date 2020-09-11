@@ -1,3 +1,10 @@
+---
+layout: default
+title: Support for side projects
+parent: Developer-oriented programs
+nav_order: 1
+---
+
 # Support for side projects
 
 This is a developer-oriented program meant to support developers' side projects. 
