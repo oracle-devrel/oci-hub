@@ -1,3 +1,9 @@
+---
+layout: default
+title: Full list
+nav_order: 1
+---
+
 # Introduction - Oracle Cloud for Developers resources
 
 ## What is OCI
