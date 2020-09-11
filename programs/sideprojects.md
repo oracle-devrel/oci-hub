@@ -22,7 +22,7 @@ It's based on Oracle Cloud's free-tier program, providing (resources can be used
 
 See the current free allowance [here](https://www.oracle.com/cloud/free/) or [here](http://www.oracle.com/us/what-can-i-do-with-300-in-credits-3746781.pdf).
 
-Part of the `Oracle Digital for Developers` initiative, therefore signing with [this link][1] tunes any further interaction to a technical only audience.
+Part of the `Oracle Digital for Developers` initiative, therefore signing with [this link][1] will grant access to technical resources. Nobody will reach out as a result of this interaction.  
 
 ## Why 
 - Free cloud powerful enough to support most small workloads, on a 24x7 basis, not limited in time
