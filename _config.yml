@@ -1,2 +1,10 @@
 remote_theme: pmarsceill/just-the-docs
 title: Oracle Cloud Resource Hub
+
+# Aux links for the upper right navigation
+aux_links:
+  "Oracle Cloud":
+    - "//https://myservices.us.oraclecloud.com/mycloud/signup?sourceType=:so:bl:or:dg:ocl::RC_WWSA200828P00060:Ocihub&SC=:so:bl:or:dg:ocl::RC_WWSA200828P00060:Ocihub&pcode=WWSA200828P00060"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: false
