@@ -1,3 +1,10 @@
+---
+layout: default
+title: Dedicated Hackthons
+parent: Developer-oriented programs
+nav_order: 2
+---
+
 # Dedicated Hackthons
 
 Unlike the hackathons we're all used to, this is a no-cost program for assisting developers or small teams in building an MVP or PoC to solve a problem they identified inside their company.
