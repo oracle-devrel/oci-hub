@@ -5,6 +5,7 @@ nav_order: 4
 ---
 
 # Workloads
+{: .no_toc }
 
 1. TOC
 {:toc}
