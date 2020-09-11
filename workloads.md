@@ -6,6 +6,10 @@ nav_order: 4
 
 # Workloads
 
+1. TOC
+{:toc}
+
+## Misc
 - [Terraform module to deploy UiPath on Oracle Cloud Infrastructure](https://github.com/oracle-quickstart/oci-uipath)
 - [Apache Airflow on Oracle Cloud Infrastructure](https://github.com/oracle-quickstart/oci-airflow)
 
