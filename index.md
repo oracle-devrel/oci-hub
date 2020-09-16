@@ -4,7 +4,7 @@ title: Introduction
 nav_order: 1
 ---
 
-# Oracle Cloud for Developers --- resources
+# Oracle Cloud for Developers resources
 
 ## What is OCI
 - [Oracle Cloud Infrastructure Quick Start on Github](https://github.com/oracle-quickstart/oci-quickstart)
