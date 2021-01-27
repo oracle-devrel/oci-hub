@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Advanced Usecases
-parent: Content by Complexity level
+title: 3. Advanced Usecases
+parent: Complexity levels
 nav_order: 3
 ---
 

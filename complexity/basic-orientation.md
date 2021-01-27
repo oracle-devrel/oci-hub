@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Basic Orientation
-parent: Content by Complexity level
+title: 1. Basic Orientation
+parent: Complexity levels
 nav_order: 1
 ---
+
+# Basic orientation

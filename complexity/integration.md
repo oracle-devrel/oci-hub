@@ -1,8 +1,8 @@
 ---
 layout: default
-title: 2. Common tasks
+title: 4. Integration
 parent: Complexity levels
-nav_order: 2
+nav_order: 4
 ---
 
-# Common Tasks
+# Integration

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Content by Complexity level
+title: Complexity levels
 nav_order: 2
 has_children: true
 ---
-# Complexity level
+# Complexity levels
