@@ -2,6 +2,7 @@
 layout: default
 title: Main operations
 nav_order: 3
+nav_exclude: true
 ---
 
 # Main operations

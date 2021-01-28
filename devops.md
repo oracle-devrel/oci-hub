@@ -2,6 +2,7 @@
 layout: default
 title: Devops
 nav_order: 5
+nav_exclude: true
 ---
 # Devops
 {: .no_toc }

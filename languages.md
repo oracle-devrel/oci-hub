@@ -2,6 +2,7 @@
 layout: default
 title: Languages and frameworks
 nav_order: 6
+nav_exclude: true
 ---
 
 # Languages & frameworks
@@ -51,4 +52,3 @@ nav_order: 6
 - [Build Swift apps with Oracle’s Autonomous Database and NoSQL](https://medium.com/so-much-code/build-swift-apps-with-oracles-autonomous-database-and-nosql-f1dee7e7cec3)
 - [New Offering Launch - Oracle Boosts Developer Velocity with Autonomous JSON Database](http://enswmu.blogspot.com/2020/08/new-offering-launch-oracle-boosts.html)
 - [Launch & Persist JSON Documents In The Cloud In 10 Minutes Or Less With Autonomous JSON Database](https://blogs.oracle.com/developers/launch-persist-json-documents-in-the-cloud-in-10-minutes-or-less-with-autonomous-json-database?SC=:so:tw:or:awr:odv::&pcode=&source=:so:tw:or:awr:odv::)
-
