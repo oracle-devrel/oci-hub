@@ -43,6 +43,7 @@ nav_order: 2
 - [Build a Bastion (jump box) and the related config options in Oracle Cloud Infrastructure](https://github.com/oracle-quickstart/oci-arch-bastion)
 - [Oracle Cloud Infrastructure — Vault Service to generate, manage and encrypt & decrypt using Keys](https://medium.com/oracledevs/oracle-cloud-infrastructure-vault-service-to-generate-manage-and-encrypt-decrypt-using-keys-4122c3ef80b0)
 - [Deploying and Integrating Hashicorp Vault on and with OCI](https://medium.com/oracledevs/deploying-and-integrating-hashicorp-vault-on-and-with-oci-cf9152b3d1a2)
+- [Avoid Data Breaches Right Where Your Data Lives](https://vmleon.medium.com/avoid-data-breaches-right-where-your-data-lives-87a98918e922)
 
 
 ## Increasing performance & availability

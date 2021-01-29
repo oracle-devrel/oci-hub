@@ -47,6 +47,7 @@ nav_order: 3
 - [Deploy Oracle Data Science using Resource Manager and Terraform](https://github.com/oracle-quickstart/oci-ods-orm)
 - [Oracle Cloud Infrastructure Data Science with Oracle Machine Learning](https://github.com/oracle-quickstart/oci-arch-data-science)
 - [Machine Learning in Digital Process Automation — Part I](https://medium.com/oracledevs/machine-learning-in-digital-process-automation-part-i-7c7468e23804)
+- [Machine Learning from your browser with SQL Notebooks](https://vmleon.medium.com/machine-learning-from-your-browser-with-sql-notebooks-9b9fa4bc191b)
 
 ### Blogs and CMS
 
@@ -81,3 +82,6 @@ nav_order: 3
 - [Migrate an on-premises database to the cloud with zero downtime](https://docs.oracle.com/en/solutions/migrate-database-with-zdm/index.html)
 - [Migrate a Teradata database to an autonomous data warehouse](https://docs.oracle.com/en/solutions/migrate-teradata/index.html)
 - [Migrate your on-premises Oracle WebLogic Server workloads to the cloud](https://docs.oracle.com/en/solutions/wls-on-prem-to-oci/index.html)
+
+## Low code
+- [Replace your spreadsheet with a low code application](https://www.oracle.com/a/ocom/docs/dc/ne/sev400074800-na-us-gr-rwe1-ne1a-ev.html)
