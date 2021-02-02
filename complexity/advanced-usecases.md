@@ -16,6 +16,7 @@ nav_order: 3
 ### Misc
 - [Terraform module to deploy UiPath on Oracle Cloud Infrastructure](https://github.com/oracle-quickstart/oci-uipath)
 - [Apache Airflow on Oracle Cloud Infrastructure](https://github.com/oracle-quickstart/oci-airflow)
+- [Implementing Citrix Virtual Apps and Desktops in Oracle Cloud Infrastructure](https://docs.oracle.com/en-us/iaas/Content/Resources/Assets/whitepapers/implement-citrix-virtual-apps-and-desktops-in-oci.pdf)
 
 ### Web & Application servers
 
@@ -26,21 +27,65 @@ nav_order: 3
 - [Deploy a Tomcat Web Application to Oracle Cloud](https://www.oracle.com/webfolder/technetwork/tutorials/obe/cloud/apaas/java/web-app-tomcat-accs/web-app-tomcat-accs.html)
 - [Loadbalanced Apache With OKE Tomcat Instances](https://enabling-cloud.github.io/oci-learning/manual/LoadbalancedApacheWithOkeTomcat.html)
 - [Tomcat - Autonomous Database Architecture](https://github.com/oracle-quickstart/oci-arch-tomcat-autonomous)
+- [Tomcat Up And Running On Oracle Cloud Infrastructure (OCI) Instance](https://enabling-cloud.github.io/oci-learning/manual/TomcatUpAndRunningOnOCI.html)
+- [Clustering Tomcat With Loadbalanced Apache on OCI](https://enabling-cloud.github.io/oci-learning/manual/ClusteringTomcatWithLbApache.html)
+
+#### Apache
+- [Loadbalanced Apache With OKE Tomcat on OCI](https://enabling-cloud.github.io/oci-learning/manual/LoadbalancedApacheWithOkeTomcat.html)
 
 #### Websphere
 - [Websphere on OCI with Terraform](https://github.com/oracle-quickstart/oci-arch-websphere-on-oci)
 
 ### Databases & caching
 
-#### Misc
 - [Terraform modules that deploy Couchbase Enterprise on Oracle Cloud Infrastructure](https://github.com/oracle-quickstart/oci-couchbase)
 - [Terraform module to deploy CockroachDB on Oracle Cloud Infrastructure (OCI)](https://github.com/oracle-quickstart/oci-cockroachdb)
+- [Getting Started With RabbitMQ In The Oracle Cloud](https://recursive.codes/blog/post/1302)
+- [Deploying Apache Cassandra on Oracle Cloud Infrastructure](https://docs.oracle.com/en-us/iaas/Content/Resources/Assets/whitepapers/deploying-cassandra-on-oci.pdf)
+- [Best practices for running Cloudera cloud solutions on Oracle Cloud Infrastructure](https://docs.oracle.com/en/solutions/best-practices-cloudera-on-oci/index.html)
+- [MapR Data Platform Reference Architecture for Oracle Cloud Infrastructure Deployments](https://docs.oracle.com/en-us/iaas/Content/Resources/Assets/whitepapers/mapr-reference-architecture-on-oci.pdf)
+
+#### Oracle DB
+- [Oracle Database Up And Running On OCI](https://enabling-cloud.github.io/oci-learning/manual/OracleDatabaseUpAndRunningOnOCI.html)
+- [Back To The Database - Prologue: What's Old Is New Again](https://recursive.codes/blog/post/1384)
+- [Back To The Database - Part 1: Preparing To Persist Data From A Stream](https://recursive.codes/blog/post/1384)
+- [Back To The Database - Part 2: Persisting Data From A Stream](https://recursive.codes/blog/post/1384)
+- [Back To The Database - Part 3: Publishing Database Changes To A Stream](https://recursive.codes/blog/post/1384)
+- [Deploying Exadata on Oracle Cloud Infrastructure](https://docs.oracle.com/en-us/iaas/Content/Resources/Assets/whitepapers/deploying-exadata-on-oci.pdf)
+- [Deploying Oracle NoSQL Database on the Oracle Cloud Infrastructure](https://docs.oracle.com/en-us/iaas/Content/Resources/Assets/whitepapers/oracle-nosql-byol-on-on-bmcs.pdf)
+- [Oracle GoldenGate Microservices Architecture on Oracle Cloud Infrastructure](https://docs.oracle.com/en-us/iaas/Content/Resources/Assets/whitepapers/oracle-goldengate-microservices-architecture-on-oci.pdf)
+
+#### Autonomous Database
+- [Launching Your First Free Autonomous DB Instance](https://recursive.codes/blog/post/118)
+- [Oracle Autonomous Transaction Processing - Introduction](https://github.com/vmleon/OracleATPGettingStarted)
+- [Introducing OCI Data Integration — New cloud native, serverless service for ETL/ELT and Data Pipelines](https://medium.com/oracledevs/introducing-oci-data-integration-new-cloud-native-serverless-service-for-etl-elt-and-data-bb96b22bda2b)
+- [Connecting SQL*Plus in Cloud Shell to an Autonomous Database](https://medium.com/oracledevs/connecting-sql-plus-in-cloud-shell-to-an-autonomous-database-1debeff5c396)
+- [New Release: Visual Studio Integration with Oracle Autonomous Database](https://medium.com/oracledevs/visual-studio-integration-with-oracle-autonomous-database-7c6243eca329)
+- [Tracking & Analyzing Water Usage Data in the Cloud with a Flow Sensor, Microcontroller & Autonomous DB](https://recursive.codes/blog/post/1606)
+- [Launch & Persist JSON Documents In The Cloud In 10 Minutes Or Less With Autonomous JSON Database](https://recursive.codes/blog/post/1600)
+- [Oracle Functions - Connecting To An ATP Database With A Wallet Stored As Secrets](https://recursive.codes/blog/post/1540)
+- [Using Kafka Connect With Oracle Streaming Service And Autonomous DB](https://recursive.codes/blog/post/92)
+- [Oracle Functions - Connecting To ATP With Node.JS](https://recursive.codes/blog/post/130)
+- [Oracle Functions - Connecting To An ATP Database](https://recursive.codes/blog/post/1133)
+- [Creating A Microservice With Node & SODA - JSON Document Storage In Autonomous DB](https://recursive.codes/blog/post/1135)
+- [Tomcat - Autonomous Database Architecture](https://github.com/oracle-quickstart/oci-arch-tomcat-autonomous)
+- [Deploy a multitier application stack on a VMware SDDC connected to an autonomous database](https://docs.oracle.com/en/solutions/ocvs-oci/index.html)
+
+#### MySQL
+- [Complete Guide to Getting Started with MySQL DB in the Oracle Cloud](https://recursive.codes/p/message-driven-microservices-monoliths-with-micronaut-part-1:-installing-kafka-sending-your-first-message)
+- [Set up a WordPress CMS connected to a MySQL database in the cloud](https://docs.oracle.com/en/solutions/deploy-wordpress-cms-with-mysql-dbs/index.html)
+- [Deploy cloud native applications that use Oracle MySQL Database Service to the cloud](https://docs.oracle.com/en/solutions/deploy-cloud-native-apps/index.html)
+
+#### Microsoft SQL Server
+- [Deploying Microsoft SQL Server Always On Availability Groups](https://docs.oracle.com/en-us/iaas/Content/Resources/Assets/whitepapers/deploy-sql-server-availability-groups.pdf)
 
 #### Redis
 - [Terraform module to deploy Redis on Oracle Cloud Infrastructure](https://github.com/oracle-quickstart/oci-redis)
 - [Deploying, Securing, and Scaling Redis on Oracle Cloud Infrastructure](https://blogs.oracle.com/cloud-infrastructure/deploying,-securing,-and-scaling-redis-on-oracle-cloud-infrastructure) and the [Youtube video](https://www.youtube.com/watch?v=0xKciaxs_m8)
 - [Deploying a Highly Available Distributed Caching Layer on Oracle Cloud Infrastructure using Memcached & Redis](https://docs.cloud.oracle.com/en-us/iaas/Content/Resources/Assets/whitepapers/deploying-memcached-and-redis-on-oci.pdf)
 - [Deploying and monitoring a Redis cluster to Oracle Container Engine (OKE)](https://medium.com/oracledevs/deploying-and-monitoring-a-redis-cluster-to-oracle-container-engine-oke-5f210b91b800)
+- [Deploy microservices to a Kubernetes cluster](https://docs.oracle.com/en/solutions/deploy-microservices/index.html)
+- [Deploying a Highly Available Distributed Caching Layer on Oracle Cloud Infrastructure Using Memcached and Redis](https://docs.oracle.com/en-us/iaas/Content/Resources/Assets/whitepapers/deploying-memcached-and-redis-on-oci.pdf)
 
 ### AI and Machine Learning
 - [Terraform module that deploys H2O.ai Driverless AI on Oracle Cloud Infrastructure (OCI)](https://github.com/oracle-quickstart/oci-h2o)
@@ -68,9 +113,12 @@ nav_order: 3
 - [Oracle Compute Cloud: Launching Wordpress from the MarketPlace](https://www.youtube.com/watch?v=M6-shGZh2TA)
 - [Using Oracle Cloud Infrastructure Load Balancing for Your Highly Available WordPress Application](https://www.oracle.com/a/ocom/docs/using-oci-load-balancing-with-wordpress.pdf)
 - [Using your Oracle Free Cloud to host your Wordpress website](https://dev.to/project42/using-your-oracle-free-cloud-to-host-your-wordpress-website-582f)
+- [Set up a WordPress CMS connected to a MySQL database in the cloud](https://docs.oracle.com/en/solutions/deploy-wordpress-cms-with-mysql-dbs/index.html)
+- [Using Oracle Cloud Infrastructure Load Balancing for Your Highly Available WordPress Application](https://docs.oracle.com/en-us/iaas/Content/Resources/Assets/whitepapers/using-oci-load-balancing-with-wordpress.pdf)
 
 
 ## Migrating from other providers
+- [Journey To The Free Cloud - Migrating From AWS To OCI](https://recursive.codes/blog/post/118)
 - [Migrate your on-premises VMware workloads to the cloud](https://docs.oracle.com/en/solutions/migrate-vmware-workloads-oraclecloud/index.html)
 - [Migrate MySQL on Amazon RDS to Always Free Autonomous Database](https://blogs.oracle.com/developers/journey-to-the-free-cloud-migrating-from-aws-to-oci)
 - [Migrate an IBM Netezza data warehouse appliance to Oracle Autonomous Data Warehouse](Migrate an IBM Netezza data warehouse appliance to Oracle Autonomous Data Warehouse)
@@ -82,6 +130,17 @@ nav_order: 3
 - [Migrate an on-premises database to the cloud with zero downtime](https://docs.oracle.com/en/solutions/migrate-database-with-zdm/index.html)
 - [Migrate a Teradata database to an autonomous data warehouse](https://docs.oracle.com/en/solutions/migrate-teradata/index.html)
 - [Migrate your on-premises Oracle WebLogic Server workloads to the cloud](https://docs.oracle.com/en/solutions/wls-on-prem-to-oci/index.html)
+- [Migrating Oracle Databases from Amazon Web Services to Oracle Cloud Infrastructure Database](https://docs.oracle.com/en-us/iaas/Content/Resources/Assets/whitepapers/database-migration-aws-to-oci-database.pdf)
+- [Migrate your on-premises VMware workloads to the cloud](https://docs.oracle.com/en/solutions/migrate-vmware-workloads-oraclecloud/index.html)
 
 ## Low code
 - [Replace your spreadsheet with a low code application](https://www.oracle.com/a/ocom/docs/dc/ne/sev400074800-na-us-gr-rwe1-ne1a-ev.html)
+- [Podcast #382: Low Code Goes Pro](https://blogs.oracle.com/developers/podcast-382%3A-low-code-goes-pro)
+
+## Gaming
+- [Create & Host Your Own Dedicated Counter-Strike: Global Offensive (CS:GO) Server for Free (Forever!)
+](https://recursive.codes/blog/post/1666)
+- [Launching Your Own Free Private VPN In The Oracle Cloud](https://recursive.codes/blog/post/1606)
+- [Blast Off To The Cloud: Free Team Chat With Rocket.Chat In The Oracle Cloud](https://recursive.codes/blog/post/106)
+- [Install & Run Discourse For Free In The Oracle Cloud](https://recursive.codes/blog/post/108)
+- [How To Setup And Run A Free Minecraft Server In The Cloud](https://recursive.codes/blog/post/116)
