@@ -13,7 +13,6 @@ nav_order: 3
 
 ## Workloads
 
-### Misc
 - [Terraform module to deploy UiPath on Oracle Cloud Infrastructure](https://github.com/oracle-quickstart/oci-uipath)
 - [Apache Airflow on Oracle Cloud Infrastructure](https://github.com/oracle-quickstart/oci-airflow)
 - [Implementing Citrix Virtual Apps and Desktops in Oracle Cloud Infrastructure](https://docs.oracle.com/en-us/iaas/Content/Resources/Assets/whitepapers/implement-citrix-virtual-apps-and-desktops-in-oci.pdf)
