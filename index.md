@@ -4,7 +4,7 @@ title: Introduction
 nav_order: 1
 ---
 
-# Oracle Cloud for Developers Resources
+# Oracle Cloud Resources
 
 ## What is OCI
 - [Official OCI page](https://www.oracle.com/cloud/)
