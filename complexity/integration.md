@@ -47,7 +47,7 @@ nav_order: 4
 
 ### Swift (iOS/macOS)
 - [Build Swift apps with Oracle’s Autonomous Database and NoSQL](https://medium.com/so-much-code/build-swift-apps-with-oracles-autonomous-database-and-nosql-f1dee7e7cec3)
-- [Build Swift apps with Oracle’s Autonomous Database — episode 2](https://bogdan.farca.ro/build-swift-apps-with-oracles-autonomous-database-episode-2-20197975e72a]
+- [Build Swift apps with Oracle’s Autonomous Database — episode 2](https://bogdan.farca.ro/build-swift-apps-with-oracles-autonomous-database-episode-2-20197975e72a)
 - [Build Swift apps with Oracle’s Autonomous Database, episode 3](https://bogdan.farca.ro/build-swift-apps-with-oracles-autonomous-database-episode-3-a94d77cdebbe)
 ### .Net
 - [OCI SDK for .NET is now available for your .NET Projects](https://blogs.oracle.com/developers/oci-sdk-for-net-is-now-available-for-your-net-projects-v2)
