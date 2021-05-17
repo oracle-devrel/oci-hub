@@ -55,7 +55,6 @@ nav_order: 4
 
 ### PHP
 - [Installing Apache and PHP 7 on OCI](https://medium.com/oracledevs/installing-apache-and-php-7-on-oci-c0ccc2c8409d)
-- 
 
 ## Devops
 
