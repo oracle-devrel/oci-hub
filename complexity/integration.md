@@ -53,6 +53,10 @@ nav_order: 4
 ### Go
 - [Connecting to Oracle Databases using Godror and Sqlx](https://blogs.oracle.com/developers/connecting-to-oracle-databases-using-godror-and-sqlx)
 
+### PHP
+- [Installing Apache and PHP 7 on OCI](https://medium.com/oracledevs/installing-apache-and-php-7-on-oci-c0ccc2c8409d)
+- 
+
 ## Devops
 
 ### Kubernetes
@@ -176,3 +180,8 @@ nav_order: 4
 - [Build Swift apps with Oracle’s Autonomous Database and NoSQL](https://medium.com/so-much-code/build-swift-apps-with-oracles-autonomous-database-and-nosql-f1dee7e7cec3)
 - [New Offering Launch - Oracle Boosts Developer Velocity with Autonomous JSON Database](http://enswmu.blogspot.com/2020/08/new-offering-launch-oracle-boosts.html)
 - [Launch & Persist JSON Documents In The Cloud In 10 Minutes Or Less With Autonomous JSON Database](https://blogs.oracle.com/developers/launch-persist-json-documents-in-the-cloud-in-10-minutes-or-less-with-autonomous-json-database?SC=:so:tw:or:awr:odv::&pcode=&source=:so:tw:or:awr:odv::)
+
+### Flutter
+- [Use OCI with Flutter/Dart](https://github.com/oracle-dart/oracle.dart)
+- [Node for Oracle Database](https://github.com/oracle/node-oracledb)
+- [Oracle database access support for Dart](https://pub.dev/packages/oracle)
