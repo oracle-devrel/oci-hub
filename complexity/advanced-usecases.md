@@ -17,6 +17,20 @@ nav_order: 3
 - [Apache Airflow on Oracle Cloud Infrastructure](https://github.com/oracle-quickstart/oci-airflow)
 - [Implementing Citrix Virtual Apps and Desktops in Oracle Cloud Infrastructure](https://docs.oracle.com/en-us/iaas/Content/Resources/Assets/whitepapers/implement-citrix-virtual-apps-and-desktops-in-oci.pdf)
 
+### Mobile apps
+- [Intro to Mobile UI in Oracle APEX](https://www.youtube.com/watch?v=1CWPd3W5EFw)
+- [Top 10 tips to optimize APEX for mobile](https://www.youtube.com/watch?v=EPWuNrKlBFw)
+- [Twitter like App in 20 minutes with Oracle APEX](https://www.youtube.com/watch?v=bosMSghczUo)
+- [Low Code App Dev with Oracle APEX: Building a Simple Movie App](https://www.youtube.com/watch?v=VlYa5xkF_kE)
+
+- [Visual Builder Studio: Build Your First Web or Mobile App](https://www.youtube.com/watch?v=tb3Re9flMBk)
+- [Developing Mobile Apps with Oracle Visual Builder](https://www.youtube.com/watch?v=8dBkTJSeKNY)
+- [Creating a New Visual Application in Visual Builder Studio](https://www.youtube.com/watch?v=dLJAcBk8qG0)
+
+- [Use OCI with Flutter/Dart](https://github.com/oracle-dart/oracle.dart)
+- [Node for Oracle Database](https://github.com/oracle/node-oracledb)
+- [Oracle database access support for Dart](https://pub.dev/packages/oracle)
+
 ### Web & Application servers
 
 - [Terraform module to deploy httpd on Oracle Cloud Infrastructure](https://github.com/oracle-quickstart/oci-httpd)
@@ -135,6 +149,8 @@ nav_order: 3
 ## Low code
 - [Replace your spreadsheet with a low code application](https://www.oracle.com/a/ocom/docs/dc/ne/sev400074800-na-us-gr-rwe1-ne1a-ev.html)
 - [Podcast #382: Low Code Goes Pro](https://blogs.oracle.com/developers/podcast-382%3A-low-code-goes-pro)
+- [Intro to Mobile UI in Oracle APEX](https://www.youtube.com/watch?v=1CWPd3W5EFw)
+- [APEX on the Cloud with Autonomous Database](https://www.youtube.com/watch?v=eMU8XIDrc7U)
 
 ## Gaming
 - [Create & Host Your Own Dedicated Counter-Strike: Global Offensive (CS:GO) Server for Free (Forever!)
