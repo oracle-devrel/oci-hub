@@ -29,6 +29,7 @@ nav_order: 4
 - [Configuring the Oracle JDBC drivers in a SpringBoot project](https://blogs.oracle.com/developers/configuring-the-oracle-jdbc-drivers-in-a-springboot-project)
 
 ### Javascript / Node.js
+- [Introduction to JavaScript for APEX Developers](https://www.youtube.com/watch?v=_lzurjl5Vm0)
 - [Instance and Resource Principal Authentication With The OCI TypeScript/JavaScript SDK](https://blogs.oracle.com/developers/instance-and-resource-principal-authentication-with-the-oci-typescriptjavascript-sdk)
 - [OCI SDK For TypeScript Is Now Available - Here's How To Use It In Your JavaScript Projects](https://blogs.oracle.com/developers/oci-sdk-for-typescript-is-now-available-heres-how-to-use-it)
 - [Resource Principal Auth With Node.JS For Easy OCI REST API Access From Your Oracle Functions](https://blogs.oracle.com/developers/resource-principal-auth-with-nodejs-for-easy-oci-rest-api-access-from-your-oracle-functions)
@@ -46,7 +47,8 @@ nav_order: 4
 
 ### Swift (iOS/macOS)
 - [Build Swift apps with Oracle’s Autonomous Database and NoSQL](https://medium.com/so-much-code/build-swift-apps-with-oracles-autonomous-database-and-nosql-f1dee7e7cec3)
-
+- [Build Swift apps with Oracle’s Autonomous Database — episode 2](https://bogdan.farca.ro/build-swift-apps-with-oracles-autonomous-database-episode-2-20197975e72a]
+- [Build Swift apps with Oracle’s Autonomous Database, episode 3](https://bogdan.farca.ro/build-swift-apps-with-oracles-autonomous-database-episode-3-a94d77cdebbe)
 ### .Net
 - [OCI SDK for .NET is now available for your .NET Projects](https://blogs.oracle.com/developers/oci-sdk-for-net-is-now-available-for-your-net-projects-v2)
 
