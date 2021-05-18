@@ -121,7 +121,7 @@ nav_order: 3
 - [Developing Chatbots with Oracle Mobile Cloud - Course](https://apexapps.oracle.com/pls/apex/f?p=44785:50:0:::50:P50_EVENT_ID,P50_COURSE_ID:5911,240)
 - [Oracle Machine Learning on Autonomous Database Workshop](https://oracle.github.io/learning-library/workshops/adwc4dev/)
 - [High-Performance Machine Learning on Oracle Cloud with H2O](https://towardsdatascience.com/high-performance-machine-learning-on-oracle-cloud-with-h2o-b60acc8815fa)
-- [Introducing Oracle Machine Learning for Python	https://blogs.oracle.com/machinelearning/introducing-oracle-machine-learning-for-python-v2![image](https://user-images.githubusercontent.com/507743/118627043-0d5bc580-b7d4-11eb-99e8-6385a925e373.png)
+- [Introducing Oracle Machine Learning for Python](https://blogs.oracle.com/machinelearning/introducing-oracle-machine-learning-for-python-v2)
 
 
 ### Blogs and CMS
