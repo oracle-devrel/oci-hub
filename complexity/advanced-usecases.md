@@ -104,6 +104,25 @@ nav_order: 3
 - [Oracle Cloud Infrastructure Data Science with Oracle Machine Learning](https://github.com/oracle-quickstart/oci-arch-data-science)
 - [Machine Learning in Digital Process Automation — Part I](https://medium.com/oracledevs/machine-learning-in-digital-process-automation-part-i-7c7468e23804)
 - [Machine Learning from your browser with SQL Notebooks](https://vmleon.medium.com/machine-learning-from-your-browser-with-sql-notebooks-9b9fa4bc191b)
+- [Database Machine Learning on ADB Lab](https://luna.oracle.com/?ojr=lab%3Blid%3Dfdb50780-683f-4796-b9e0-7c2499848dbb)
+- [Oracle Digital Assistant Lab])https://luna.oracle.com/?ojr=lab%3Blid%3D9a0092dc-89e6-41cc-9169-cbdb5d1454ff)
+- [Machine Learning on Autonomous Database Lab](https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/view-workshop?wid=560)
+- [Artificial Intelligence: Getting Started with Computer Vision using PyTorch](https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/view-workshop?wid=706)
+- [Artificial Intelligence: Build your Own Object Detection Solution Lab](https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/view-workshop?wid=752)
+- [Time Series Forecasting with fb Prophet](https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/view-workshop?wid=771)
+- [Oracle Machine Learning for Python on Autonomous Database](https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/view-workshop?wid=786)
+- [Time Series Forecasting with fb Prophet](https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/view-workshop?wid=771)
+- [Oracle Machine Learning for Python on Autonomous Database](https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/view-workshop?wid=786)
+- [Decision Trees in Machine Learning, Simplified](https://medium.com/oracledevs/decision-trees-in-machine-learning-simplified-abc916c8b22b)
+- [4 Machine Learning Techniques You Should Recognize](https://blogs.oracle.com/bigdata/post/4-machine-learning-techniques-you-should-recognize)
+- [Using AI and ML to enrich metadata in Oracle Cloud Infrastructure Data Catalog](https://blogs.oracle.com/ai-and-datascience/post/using-ai-and-ml-to-enrich-metadata-in-oracle-cloud-infrastructure-data-catalog)
+- [Using Oracle Storage Cloud with Tensorflow](https://medium.com/oracledevs/using-oracle-storage-cloud-with-tensorflow-ca809e0f6612)
+- [Classification — Machine Learning Chatbot with TensorFlow](https://medium.com/oracledevs/classification-machine-learning-chatbot-with-tensorflow-f40a3874d162)
+- [Developing Chatbots with Oracle Mobile Cloud - Course](https://apexapps.oracle.com/pls/apex/f?p=44785:50:0:::50:P50_EVENT_ID,P50_COURSE_ID:5911,240)
+- [Oracle Machine Learning on Autonomous Database Workshop](https://oracle.github.io/learning-library/workshops/adwc4dev/)
+- [High-Performance Machine Learning on Oracle Cloud with H2O](https://towardsdatascience.com/high-performance-machine-learning-on-oracle-cloud-with-h2o-b60acc8815fa)
+- [Introducing Oracle Machine Learning for Python	https://blogs.oracle.com/machinelearning/introducing-oracle-machine-learning-for-python-v2![image](https://user-images.githubusercontent.com/507743/118627043-0d5bc580-b7d4-11eb-99e8-6385a925e373.png)
+
 
 ### Blogs and CMS
 
