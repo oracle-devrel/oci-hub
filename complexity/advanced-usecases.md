@@ -122,6 +122,10 @@ nav_order: 3
 - [Oracle Machine Learning on Autonomous Database Workshop](https://oracle.github.io/learning-library/workshops/adwc4dev/)
 - [High-Performance Machine Learning on Oracle Cloud with H2O](https://towardsdatascience.com/high-performance-machine-learning-on-oracle-cloud-with-h2o-b60acc8815fa)
 - [Introducing Oracle Machine Learning for Python](https://blogs.oracle.com/machinelearning/introducing-oracle-machine-learning-for-python-v2)
+- [Use Machine Learning Explain to Discover Data Insights in Oracle Analytics](https://www.youtube.com/watch?v=lqAj8HSxMw8&t=10s)
+- [AutoML: The Future of Machine Learning?](https://www.youtube.com/watch?v=AAlFT6Pfy3E)
+- [Demo of Oracle Machine Learning Notebooks](https://www.youtube.com/watch?v=EgxKYQ8paCw)
+- [Oracle Machine Learning for R: An Introduction](https://www.youtube.com/watch?v=K6S3Za9fXFc)
 
 
 ### Blogs and CMS
