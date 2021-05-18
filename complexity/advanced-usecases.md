@@ -105,7 +105,7 @@ nav_order: 3
 - [Machine Learning in Digital Process Automation — Part I](https://medium.com/oracledevs/machine-learning-in-digital-process-automation-part-i-7c7468e23804)
 - [Machine Learning from your browser with SQL Notebooks](https://vmleon.medium.com/machine-learning-from-your-browser-with-sql-notebooks-9b9fa4bc191b)
 - [Database Machine Learning on ADB Lab](https://luna.oracle.com/?ojr=lab%3Blid%3Dfdb50780-683f-4796-b9e0-7c2499848dbb)
-- [Oracle Digital Assistant Lab])https://luna.oracle.com/?ojr=lab%3Blid%3D9a0092dc-89e6-41cc-9169-cbdb5d1454ff)
+- [Oracle Digital Assistant Lab](https://luna.oracle.com/?ojr=lab%3Blid%3D9a0092dc-89e6-41cc-9169-cbdb5d1454ff)
 - [Machine Learning on Autonomous Database Lab](https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/view-workshop?wid=560)
 - [Artificial Intelligence: Getting Started with Computer Vision using PyTorch](https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/view-workshop?wid=706)
 - [Artificial Intelligence: Build your Own Object Detection Solution Lab](https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/view-workshop?wid=752)
