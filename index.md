@@ -7,7 +7,7 @@ nav_order: 1
 # Oracle Cloud Resources
 
 ## What is OCI
-- [Official OCI page](https://www.oracle.com/cloud/)
+- [Oracle's OCI page](https://www.oracle.com/cloud/) 
 - [Cloud Boosters - Do the first steps in the Oracle Cloud!](https://objectstorage.eu-frankfurt-1.oraclecloud.com/p/OqIIWAsNbkcXVLkisJkeAsH6hkrwv5RisQ1ip-6po2E/n/interactivetech/b/booster_bucket/o/Cloud_Booster.pdf)
 - [Oracle Cloud Infrastructure Quick Start on Github](https://github.com/oracle-quickstart/oci-quickstart)
 - [Oracle Cloud Infrastructure and its Key Benefits](https://www.parallels.com/blogs/ras/oracle-cloud-infrastructure/)
