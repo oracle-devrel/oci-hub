@@ -1,6 +1,7 @@
 theme: just-the-docs
 remote_theme: bogdanf/just-the-docs
 title: Oracle Cloud Hub
+markdown: kramdown
 
 # Aux links for the upper right navigation
 aux_links:
