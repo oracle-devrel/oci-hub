@@ -2,7 +2,7 @@
 title: 2. Common tasks
 parent: oci-hub
 author: community
-tags: [intro, OCI, basics]
+tags: [open-source, oci, always-free]
 thumbnail: https://unsplash.com/photos/RLw-UC03Gwc/download?force=true&w=1920
 toc: true
 ---

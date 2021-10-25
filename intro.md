@@ -4,7 +4,7 @@ parent: oci-hub
 author: community
 tags: [intro, OCI, basics]
 thumbnail: https://unsplash.com/photos/jU40gA2UDmA/download?force=true&w=1920
-categories: [coulddev, cloudapps]
+categories: [open-source, oci, always-free]
 toc: true
 nav_order: 1
 ---

@@ -4,7 +4,7 @@ title: The OCI Knowledge hub
 author: community
 series: oci-hub
 description: Comprehensive collection of OCI related links and articles
-thumbnail: assets/images/logo.png
+thumbnail: assets/images/oci-knowledge-hub-logo.png
 
 nav_order: 1
 ---
