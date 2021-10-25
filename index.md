@@ -1,6 +1,7 @@
 ---
 layout: collection
 title: The OCI Knowledge hub
+author: community
 series: oci-hub
 description: Comprehensive collection of OCI related links and articles
 thumbnail: assets/images/logo.png

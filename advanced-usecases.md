@@ -1,6 +1,7 @@
 ---
 title: 3. Advanced Usecases
 parent: oci-hub
+author: community
 tags: [intro, OCI, basics]
 thumbnail: https://unsplash.com/photos/XJXWbfSo2f0/download?force=true&w=1920
 categories: [coulddev, cloudapps]

@@ -1,6 +1,7 @@
 ---
 title: The absolutely essential concepts
 parent: oci-hub
+author: community
 tags: [intro, OCI, basics]
 thumbnail: https://unsplash.com/photos/jU40gA2UDmA/download?force=true&w=1920
 categories: [coulddev, cloudapps]
