@@ -5,8 +5,7 @@ author: community
 series: oci-hub
 description: Comprehensive collection of OCI related links and articles
 thumbnail: assets/images/oci-knowledge-hub-logo.png
-
-nav_order: 1
+sort: asc
 ---
 
 This is esentialy a collection of crowd-sourced, crowd-currated list of Oracle Cloud resources published everywhere across the Internet.

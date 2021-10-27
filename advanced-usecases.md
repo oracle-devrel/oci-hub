@@ -6,8 +6,8 @@ tags: [intro, OCI, basics]
 thumbnail: https://unsplash.com/photos/XJXWbfSo2f0/download?force=true&w=1920
 categories: [open-source, oci, always-free]
 toc: true
-
 nav_order: 3
+date: 2021-10-27 13:00
 ---
 ## Workloads
 
