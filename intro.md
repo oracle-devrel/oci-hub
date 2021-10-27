@@ -6,6 +6,7 @@ tags: [intro, OCI, basics]
 thumbnail: https://unsplash.com/photos/jU40gA2UDmA/download?force=true&w=1920
 categories: [open-source, oci, always-free]
 toc: true
+date: 2021-10-27 08:00
 ---
 
 ## What is OCI
