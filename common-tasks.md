@@ -1,19 +1,22 @@
 ---
 title: 2. Common tasks
-parent: oci-hub
+parent: [oci-hub]
+sidebar: series
 author: community
 tags: [open-source, oci, always-free]
 thumbnail: https://unsplash.com/photos/RLw-UC03Gwc/download?force=true&w=1920
 toc: true
-date: 2021-10-27 12:00
+date: 2021-11-01 03:00
 ---
 
 ## Architecture
+
 - [Video: Compute Level 200](https://www.youtube.com/playlist?list=PLKCk3OyNwIztYj_4Wgk4tRMrWSiAwFWOn)
 - [Working with Oracle Cloud Infrastructure custom Compute images](https://blogs.oracle.com/developers/working-with-oracle-cloud-infrastructure-custom-compute-images)
 - [Building Highly Available Applications in a Region with One Availability Domain](https://docs.oracle.com/en-us/iaas/Content/Resources/Assets/whitepapers/building-ha-apps-in-one-availability-domain.pdf)
 
 ## Compute
+
 - [Cloud Cost Cutting: Autoscaling Your Dev/QA Environments](https://recursive.codes/blog/post/1540)
 - [Complete Developers Guide To The Oracle Notification Service](https://recursive.codes/blog/post/1384)
 - [Manage Your Compute Instances Like A Pro With The OS Management Service On The Oracle Cloud](https://recursive.codes/blog/post/1302)
@@ -21,16 +24,19 @@ date: 2021-10-27 12:00
 - [Deploying Custom Operating System Images on Oracle Cloud Infrastructure](https://docs.oracle.com/en-us/iaas/Content/Resources/Assets/whitepapers/deploying-custom-os-images.pdf)
 
 ### Hypervisors
+
 - [Installing and Configuring KVM on Bare Metal Instances with Multi-VNIC](https://docs.oracle.com/en-us/iaas/Content/Resources/Assets/whitepapers/installing-kvm-multi-vnics.pdf)
 - [Deploying Hyper-V on Oracle Cloud Infrastructure](https://docs.oracle.com/en-us/iaas/Content/Resources/Assets/whitepapers/deploy-hyper-v-with-routing.pdf)
 - [Getting Started: Oracle Linux KVM Image for Oracle Cloud Infrastructure](https://docs.oracle.com/en/operating-systems/oracle-linux/oci/tutorial-kvm-image/)
 
 ## Storage
+
 - [Using Block Volumes Service Metrics to Calculate Block Volume Throughput and IOPS](https://docs.oracle.com/en-us/iaas/Content/Resources/Assets/whitepapers/use-block-volume-metrics-to-calculate-throughput-and-iops.pdf)
 - [File Storage Service Performance Guide](https://docs.oracle.com/en-us/iaas/Content/Resources/Assets/whitepapers/file-storage-performance-guide.pdf)
 - [Move data to object storage in the cloud by using rclone](https://docs.oracle.com/en/solutions/move-data-to-cloud-storage-using-rclone/index.html)
 
 ## Networking
+
 - [VCNs and Subnets](https://docs.oracle.com/en-us/iaas/Content/Network/Tasks/managingVCNs.htm)
 - [Video: Networking in Oracle Cloud: VCN, Subnet, Security List](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjO0KuRy77uAhVEpYsKHURkCcYQtwIwBXoECAcQAg&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3De4txqxRf-TM&usg=AOvVaw2YhjZIDiFPJeaU8YxKsG-d)
 - [Set up a private interconnection between Microsoft Azure and Oracle Cloud Infrastructure](https://docs.oracle.com/en/solutions/migrate-database-with-zdm/index.html)
@@ -48,19 +54,20 @@ date: 2021-10-27 12:00
 - [Encrypted FastConnect: Public Peering](https://docs.oracle.com/en-us/iaas/Content/Resources/Assets/whitepapers/encrypted-fastconnect-public-peering.pdf)
 
 ### Cross-Cloud Interconnect (OCI + Azure)
+
 - [Deploy the Oracle Cloud and Microsoft Azure Interconnect Using Hub-and-Spoke Topology](https://docs.oracle.com/en-us/iaas/Content/Resources/Assets/whitepapers/deploy_oracle_cloud_and_microsoft_azure_interconnect_using_hub_spoke_topology.pdf)
 - [Set up SSO between Azure AD and Oracle Identity Cloud Service for Oracle E-Business Suite](https://docs.oracle.com/en/solutions/sso-e-business-suite-azure-ad/index.html#GUID-2158E04D-B7A8-4122-8591-965671369CB4)
 
 ## Security
+
 - [National Cyber Security Centre (NCSC) Cloud Security Principles – Implementation in the Oracle Cloud](https://docs.oracle.com/en-us/iaas/Content/Resources/Assets/whitepapers/ncsc-cloud-security-principles.pdf)
 - [Setting up a virtual cloud network (VCN) in Oracle Cloud Infrastructure](https://blogs.oracle.com/developers/setting-up-a-virtual-cloud-network-vcn-in-oracle-cloud-infrastructure)
 - [Video: Security Level 100](https://www.youtube.com/playlist?list=PLKCk3OyNwIztQj5jG3aCyBPSJpOmtIRtz)
 - [Video: IAM Level 100](https://www.youtube.com/playlist?list=PLKCk3OyNwIzuuA-wq2rVuxUE13rPTvzQZ)
 - [Protect your workloads in the cloud using security zones](https://docs.oracle.com/en/solutions/oci-security-zones/index.html)
-- [Set up a secure multitier topology in Oracle Cloud](Set up a secure multitier topology in Oracle Cloud)
 - [Best practices for securing workloads in the cloud](https://docs.oracle.com/en/solutions/oci-best-practices-security/index.html)
 - [Security checklist for Oracle Cloud Infrastructure](https://docs.oracle.com/en/solutions/oci-security-checklist/index.html)
-- [Learn about designing a secure multitier topology in the cloud](https://docs.oracle.com/en/solutions/learn-secure-network-topology/index.html)
+- [Learn about designing a secure multi-tier topology in the cloud](https://docs.oracle.com/en/solutions/learn-secure-network-topology/index.html)
 - [Working with Identity and Access Management (IAM) in Oracle Cloud Infrastructure](https://blogs.oracle.com/developers/working-with-identity-and-access-management-iam-in-oracle-cloud-infrastructure)
 - [Using policies to secure Oracle Cloud Infrastructure Object Storage](https://blogs.oracle.com/developers/using-policies-to-secure-oracle-cloud-infrastructure-object-storage)
 - [Terraform module to deploy Palo Alto Networks on Oracle Cloud Infrastructure (OCI)](https://github.com/oracle-quickstart/oci-paloaltonetworks)
@@ -89,6 +96,7 @@ date: 2021-10-27 12:00
 - [Federating Oracle Access Manager to Oracle Cloud Infrastructure](https://docs.oracle.com/en-us/iaas/Content/Resources/Assets/whitepapers/oracle-access-manager-federation-to-oci.pdf)
 
 ## Increasing performance & availability
+
 - [Launch and test a load balancer](https://docs.oracle.com/en-us/iaas/Content/GSG/Tasks/loadbalancing.htm)
 - [Application load balancing on Oracle Cloud Infrastructure](https://blogs.oracle.com/developers/autoscaling-your-workload-on-oracle-cloud-infrastructure)
 - [Autoscaling your workload on Oracle Cloud Infrastructure](https://blogs.oracle.com/developers/autoscaling-your-workload-on-oracle-cloud-infrastructure)
@@ -99,6 +107,7 @@ date: 2021-10-27 12:00
 - [Deploy a highly available VMware SDDC to the cloud](https://docs.oracle.com/en/solutions/deploy-vmware-sddc-oci/index.html)
 
 ## High availability
+
 - [Using Oracle Cloud Infrastructure Load Balancing for Your Highly Available WordPress Application](https://docs.oracle.com/en-us/iaas/Content/Resources/Assets/whitepapers/using-oci-load-balancing-with-wordpress.pdf)
 - [Learn about architecting a highly available cloud topology](https://docs.oracle.com/en/solutions/design-ha)
 - [Building Highly Available Applications in a Region with One Availability Domain](https://docs.oracle.com/en-us/iaas/Content/Resources/Assets/whitepapers/building-ha-apps-in-one-availability-domain.pdf)
@@ -106,6 +115,7 @@ date: 2021-10-27 12:00
 - [Connectivity Redundancy Guide](https://docs.oracle.com/en-us/iaas/Content/Resources/Assets/whitepapers/connectivity-redundancy-guide.pdf)
 
 ## Backup & Disaster Recovery
+
 - [Back up your on-premises data to the cloud](https://docs.oracle.com/en/solutions/onprem-to-cloud-backup/index.html)
 - [Move data to object storage in the cloud using rclone](https://docs.oracle.com/en/solutions/move-data-to-cloud-storage-using-rclone/index.html)
 - [Publishing To Object Storage From Oracle Streaming Service](https://recursive.codes/blog/post/92)
@@ -113,6 +123,7 @@ date: 2021-10-27 12:00
 - [Learn about protecting your cloud topology against disasters](https://docs.oracle.com/en/solutions/design-dr/index.html)
 
 ### VMware
+
 - [Deploy Zerto to protect your VMware SDDC in the cloud against disasters](https://docs.oracle.com/en/solutions/deploy-zerto-for-ocvs/index.html#GUID-53CCF4BB-DF8D-4200-9382-89154A0B8BE3)
 - [Deploy Veeam to protect your VMware SDDC in the cloud against disasters](https://docs.oracle.com/en/solutions/deploy-veeam-for-ocvs/index.html#GUID-8109D7EA-F842-4339-B8B7-8AA1F11F10AE)
 - [Deploy Actifio to protect your VMware SDDC in the cloud against disasters](https://docs.oracle.com/en/solutions/deploy-actifio-oracle-vmware-solution/index.html#GUID-C5720B62-045F-418F-9E8C-FFE3799FB103)

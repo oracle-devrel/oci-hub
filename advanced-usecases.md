@@ -1,13 +1,13 @@
 ---
 title: 3. Advanced Usecases
-parent: oci-hub
+parent: [oci-hub]
+sidebar: series
 author: community
 tags: [intro, OCI, basics]
 thumbnail: https://unsplash.com/photos/XJXWbfSo2f0/download?force=true&w=1920
 categories: [open-source, oci, always-free]
 toc: true
-nav_order: 3
-date: 2021-10-27 13:00
+date: 2021-11-01 04:00
 ---
 ## Workloads
 
@@ -16,6 +16,7 @@ date: 2021-10-27 13:00
 - [Implementing Citrix Virtual Apps and Desktops in Oracle Cloud Infrastructure](https://docs.oracle.com/en-us/iaas/Content/Resources/Assets/whitepapers/implement-citrix-virtual-apps-and-desktops-in-oci.pdf)
 
 ### Mobile apps
+
 - [Intro to Mobile UI in Oracle APEX](https://www.youtube.com/watch?v=1CWPd3W5EFw)
 - [Top 10 tips to optimize APEX for mobile](https://www.youtube.com/watch?v=EPWuNrKlBFw)
 - [Twitter like App in 20 minutes with Oracle APEX](https://www.youtube.com/watch?v=bosMSghczUo)
@@ -32,6 +33,7 @@ date: 2021-10-27 13:00
 - [Terraform module to deploy httpd on Oracle Cloud Infrastructure](https://github.com/oracle-quickstart/oci-httpd)
 
 #### Tomcat
+
 - [TOMCAT UP AND RUNNING ON ORACLE CLOUD INFRASTRUCTURE (OCI) INSTANCE](https://reachmnadeem.wordpress.com/2019/08/22/tomcat-up-and-running-on-oracle-cloud-infrastructure-oci-instance/)
 - [Deploy a Tomcat Web Application to Oracle Cloud](https://www.oracle.com/webfolder/technetwork/tutorials/obe/cloud/apaas/java/web-app-tomcat-accs/web-app-tomcat-accs.html)
 - [Loadbalanced Apache With OKE Tomcat Instances](https://enabling-cloud.github.io/oci-learning/manual/LoadbalancedApacheWithOkeTomcat.html)
@@ -78,7 +80,7 @@ date: 2021-10-27 13:00
 - [Oracle Functions - Connecting To An ATP Database](https://recursive.codes/blog/post/1133)
 - [Creating A Microservice With Node & SODA - JSON Document Storage In Autonomous DB](https://recursive.codes/blog/post/1135)
 - [Tomcat - Autonomous Database Architecture](https://github.com/oracle-quickstart/oci-arch-tomcat-autonomous)
-- [Deploy a multitier application stack on a VMware SDDC connected to an autonomous database](https://docs.oracle.com/en/solutions/ocvs-oci/index.html)
+- [Deploy a multi-tier application stack on a VMware SDDC connected to an autonomous database](https://docs.oracle.com/en/solutions/ocvs-oci/index.html)
 
 #### MySQL
 - [Complete Guide to Getting Started with MySQL DB in the Oracle Cloud](https://recursive.codes/p/message-driven-microservices-monoliths-with-micronaut-part-1:-installing-kafka-sending-your-first-message)
@@ -111,13 +113,11 @@ date: 2021-10-27 13:00
 - [Oracle Machine Learning for Python on Autonomous Database](https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/view-workshop?wid=786)
 - [Time Series Forecasting with fb Prophet](https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/view-workshop?wid=771)
 - [Oracle Machine Learning for Python on Autonomous Database](https://apexapps.oracle.com/pls/apex/dbpm/r/livelabs/view-workshop?wid=786)
-- [Decision Trees in Machine Learning, Simplified](https://medium.com/oracledevs/decision-trees-in-machine-learning-simplified-abc916c8b22b)
 - [4 Machine Learning Techniques You Should Recognize](https://blogs.oracle.com/bigdata/post/4-machine-learning-techniques-you-should-recognize)
 - [Using AI and ML to enrich metadata in Oracle Cloud Infrastructure Data Catalog](https://blogs.oracle.com/ai-and-datascience/post/using-ai-and-ml-to-enrich-metadata-in-oracle-cloud-infrastructure-data-catalog)
 - [Using Oracle Storage Cloud with Tensorflow](https://medium.com/oracledevs/using-oracle-storage-cloud-with-tensorflow-ca809e0f6612)
 - [Classification — Machine Learning Chatbot with TensorFlow](https://medium.com/oracledevs/classification-machine-learning-chatbot-with-tensorflow-f40a3874d162)
 - [Developing Chatbots with Oracle Mobile Cloud - Course](https://apexapps.oracle.com/pls/apex/f?p=44785:50:0:::50:P50_EVENT_ID,P50_COURSE_ID:5911,240)
-- [Oracle Machine Learning on Autonomous Database Workshop](https://oracle.github.io/learning-library/workshops/adwc4dev/)
 - [High-Performance Machine Learning on Oracle Cloud with H2O](https://towardsdatascience.com/high-performance-machine-learning-on-oracle-cloud-with-h2o-b60acc8815fa)
 - [Introducing Oracle Machine Learning for Python](https://blogs.oracle.com/machinelearning/introducing-oracle-machine-learning-for-python-v2)
 - [Use Machine Learning Explain to Discover Data Insights in Oracle Analytics](https://www.youtube.com/watch?v=lqAj8HSxMw8&t=10s)
@@ -134,13 +134,16 @@ date: 2021-10-27 13:00
 - [Oracle Driver - allows Drupal to use an Oracle Database as the primary backend](https://www.drupal.org/project/oracle)
 
 #### Joomla
-- [A to Z setup of a Joomla!® website on Oracle Cloud Infrastructure Free Tier*](https://www.linkedin.com/pulse/set-up-joomla-website-oracle-cloud-infrastructure-alexis-blot-lefevre/?articleId=6671756779640254464) and [video](https://www.youtube.com/watch?v=duceoBeuL9g)
+
+- [A to Z setup of a Joomla!® website on Oracle Cloud Infrastructure Free Tier](https://www.linkedin.com/pulse/set-up-joomla-website-oracle-cloud-infrastructure-alexis-blot-lefevre/?articleId=6671756779640254464) and [video](https://www.youtube.com/watch?v=duceoBeuL9g)
 
 #### Ghost
+
 - [Stand Up A Free Blog In 15 Minutes With Ghost In The Oracle Cloud](https://blogs.oracle.com/developers/stand-up-a-free-blog-in-15-minutes-with-ghost-in-the-oracle-cloud)
 - [Hosting a Ghost blog for free on Oracle Cloud Free-Tier!](https://blog.ryanharper.co.uk/free-vms-on-oracle-cloud/)
 
 #### Wordpress
+
 - [Wordpress & MySQL 8.0 on OCI](https://www.youtube.com/watch?v=rBUEdt0Iy60) and the corresponding [blog post](https://lefred.be/content/using-oci-to-install-wordpress-and-mysql-8-0/)
 - [Oracle Compute Cloud: Launching Wordpress from the MarketPlace](https://www.youtube.com/watch?v=M6-shGZh2TA)
 - [Using Oracle Cloud Infrastructure Load Balancing for Your Highly Available WordPress Application](https://www.oracle.com/a/ocom/docs/using-oci-load-balancing-with-wordpress.pdf)
@@ -150,6 +153,7 @@ date: 2021-10-27 13:00
 
 
 ## Migrating from other providers
+
 - [Journey To The Free Cloud - Migrating From AWS To OCI](https://recursive.codes/blog/post/118)
 - [Migrate your on-premises VMware workloads to the cloud](https://docs.oracle.com/en/solutions/migrate-vmware-workloads-oraclecloud/index.html)
 - [Migrate MySQL on Amazon RDS to Always Free Autonomous Database](https://blogs.oracle.com/developers/journey-to-the-free-cloud-migrating-from-aws-to-oci)
@@ -166,14 +170,15 @@ date: 2021-10-27 13:00
 - [Migrate your on-premises VMware workloads to the cloud](https://docs.oracle.com/en/solutions/migrate-vmware-workloads-oraclecloud/index.html)
 
 ## Low code
+
 - [Replace your spreadsheet with a low code application](https://www.oracle.com/a/ocom/docs/dc/ne/sev400074800-na-us-gr-rwe1-ne1a-ev.html)
 - [Podcast #382: Low Code Goes Pro](https://blogs.oracle.com/developers/podcast-382%3A-low-code-goes-pro)
 - [Intro to Mobile UI in Oracle APEX](https://www.youtube.com/watch?v=1CWPd3W5EFw)
 - [APEX on the Cloud with Autonomous Database](https://www.youtube.com/watch?v=eMU8XIDrc7U)
 
 ## Gaming
-- [Create & Host Your Own Dedicated Counter-Strike: Global Offensive (CS:GO) Server for Free (Forever!)
-](https://recursive.codes/blog/post/1666)
+
+- [Create & Host Your Own Dedicated Counter-Strike: Global Offensive (CS:GO) Server for Free (Forever!)](https://recursive.codes/blog/post/1666)
 - [Launching Your Own Free Private VPN In The Oracle Cloud](https://recursive.codes/blog/post/1606)
 - [Blast Off To The Cloud: Free Team Chat With Rocket.Chat In The Oracle Cloud](https://recursive.codes/blog/post/106)
 - [Install & Run Discourse For Free In The Oracle Cloud](https://recursive.codes/blog/post/108)
