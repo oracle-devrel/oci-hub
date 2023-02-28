@@ -12,6 +12,7 @@ date: 2021-11-01 01:00
 
 ## What is OCI
 
+-  [OCI in 5](https://www.oracle.com/uk/cloud/architecture-center/oci-in-5/){:target="_blank" rel="noopener"}
 - [Oracle's OCI page](https://www.oracle.com/cloud/){:target="_blank" rel="noopener"}
 - [Cloud Boosters - Do the first steps in the Oracle Cloud!](https://objectstorage.eu-frankfurt-1.oraclecloud.com/p/OqIIWAsNbkcXVLkisJkeAsH6hkrwv5RisQ1ip-6po2E/n/interactivetech/b/booster_bucket/o/Cloud_Booster.pdf)
 - [Oracle Cloud Infrastructure Quick Start on Github](https://github.com/oracle-quickstart/oci-quickstart)
